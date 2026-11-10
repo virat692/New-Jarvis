@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS Assistant HUD",
+  "description": "Futuristic sci-fi AI assistant interface with holographic reactor core, live audio visualizer, voice control, system diagnostics, and interactive modules.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
